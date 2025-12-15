@@ -52,8 +52,6 @@ Import the final data into Excel
 Open the dashboard file
 Use slicers to explore insights
 
-![Sales Dashboard](C:\Users\hibas\Desktop\Self_Learning\Project_4_Pizza_Sales_Analysis_using_SQL_and_Excel\Project_dashboard.png)
-
 👩‍💻 Author
 
 Hiba
