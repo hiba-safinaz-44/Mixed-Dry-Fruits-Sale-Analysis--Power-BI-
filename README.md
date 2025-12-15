@@ -6,6 +6,7 @@
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Project-black?logo=github)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analyst-blueviolet)
 
 
 
